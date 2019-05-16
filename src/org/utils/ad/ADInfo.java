@@ -1,7 +1,11 @@
 package org.utils.ad;
 
 import javax.naming.Context;
-
+/****
+ * 
+ * @author panjianyu
+ *¡¨Ω”¿‡
+ */
 public class ADInfo {
 	public static final String adminName = "administrator";
 	public static final String adminNamelast = "@pjy.com";
