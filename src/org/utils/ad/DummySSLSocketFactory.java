@@ -6,6 +6,11 @@ import java.net.Socket;
 import javax.net.ssl.*;
 import javax.net.SocketFactory;
 
+/****
+ *
+ * @author panjianyu
+ *接口类，不要删除
+ */
 public class DummySSLSocketFactory extends SSLSocketFactory {
 
     private SSLSocketFactory factory;
